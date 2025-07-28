@@ -12,4 +12,12 @@ Finding cancer at an earlier, more curable stage has immense impact on survival.
 
 ## Data and Digital Health
 
-
+# Ongoing Challenges and Gaps
+## Treatment Resistance and Metastatic Disease
+Most advanced cancers remain incurable because tumors evolve resistance to therapies. Targeted drugs often initially shrink tumors, but cancer cells acquire new mutations or adaptive pathways that render treatment ineffective. Similarly, only a fraction of patients (e.g. ~20–30%) achieve long-term remission with immunotherapies; the rest experience disease progression due to immune evasion mechanisms. Metastatic cancer – responsible for the vast majority of cancer deaths – is highly heterogeneous and adaptable, often finding ways to spread and survive despite aggressive treatment. New approaches are needed to overcome drug resistance and to eradicate residual disease before it can rebound.
+## Limited Efficacy in "Cold" Tumors
+mmunotherapies have revolutionized cancers like melanoma and lung cancer, but many solid tumors (such as pancreatic or microsatellite-stable colorectal cancer) respond poorly because they have immunosuppressive microenvironments. These “cold” tumors lack sufficient T-cell infiltration or have inhibitory factors that blunt immune attack. Overcoming the tumor microenvironment’s barriers – by adding agents that alter stromal components, vasculature, or microbiome – is an active area of research necessary to extend immunotherapy benefits to more cancer types.
+## Toxicity and Side Effects
+Both new and old cancer treatments can cause severe side effects that limit their use. Immunotherapies can provoke autoimmune reactions (colitis, pneumonitis, etc.), targeted therapies can damage organs or cause unique toxicities, and traditional chemoradiation causes significant morbidity. Managing and mitigating these side effects remains vital. There is a need for better biomarkers to predict who is at risk of severe toxicity and for therapies with wider therapeutic indices. Digital monitoring of symptoms (e.g. patient-reported outcomes via apps) may help catch adverse effects early and improve their management in real time.
+## Early Detection False Positives
+While new early detection tools are powerful, they introduce challenges of their own. Highly sensitive tests (like multi-cancer liquid biopsies) may detect signals that never would have harmed the patient, potentially leading to overdiagnosis or unnecessary invasive follow-ups. Ensuring that early detection translates to improved outcomes (and doesn’t just find indolent disease) is an ongoing concern. Large-scale clinical trials are needed to validate that novel screening tests actually reduce mortality without undue harm.
